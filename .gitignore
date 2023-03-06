@@ -1,0 +1,6 @@
+.cache
+.clangd
+.idea
+build/
+compile_commands.json
+main/private.h
